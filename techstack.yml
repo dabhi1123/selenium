@@ -1,7 +1,7 @@
 repo_name: dabhi1123/selenium
-report_id: 1e2a3ea1d0aad9deb66e10bd5a7ae18a
+report_id: c71e6a698525ab62eada59cc06f044f8
 repo_type: Public
-timestamp: '2023-11-08T20:57:43+00:00'
+timestamp: '2023-11-09T11:56:52+00:00'
 requested_by: dependabot[bot]
 provider: github
 branch: dependabot/github_actions/actions/setup-python-4.7.1
@@ -17,6 +17,8 @@ tools:
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
   detection_source: Base/Dockerfile
+  last_updated_by: Matthew Smith
+  last_updated_on: 2014-11-05 19:35:20.000000000 Z
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
     to Perl, Ruby, Scheme, or Java.
@@ -56,6 +58,8 @@ tools:
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
   detection_source: NodeBase/Dockerfile
+  last_updated_by: Selenium CI Bot
+  last_updated_on: 2022-04-27 14:00:33.000000000 Z
 - name: Docker
   description: Enterprise Container Platform for High-Velocity Innovation.
   website_url: https://www.docker.com/
@@ -84,6 +88,8 @@ tools:
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
   detection_source: ".github/workflows/update-dev-beta-browser-images.yml"
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-10-03 08:56:41.000000000 Z
 - name: Istio
   description: Open platform to connect, manage, and secure microservices, by Google,
     IBM, and Lyft
@@ -95,6 +101,8 @@ tools:
   sub_category: Microservices Tools
   image_url: https://img.stackshare.io/service/7028/AGpa5VZV.jpg
   detection_source: ".github/workflows/update-dev-beta-browser-images.yml"
+  last_updated_by: Diego Molina
+  last_updated_on: 2020-07-11 22:25:56.000000000 Z
 - name: Ubuntu
   description: The leading OS for PC, tablet, phone and cloud
   website_url: http://www.ubuntu.com/
@@ -104,3 +112,5 @@ tools:
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/3511/cof_orange_hex.jpg
   detection_source: NodeBase/Dockerfile
+  last_updated_by: Diego Molina
+  last_updated_on: 2023-03-03 10:52:22.000000000 Z
