@@ -1,7 +1,7 @@
 repo_name: dabhi1123/selenium
-report_id: 6901d65356fb725dbce89a53ecaeb4e5
+report_id: 513f60d2ea8473bae9ea761814455157
 repo_type: Public
-timestamp: '2023-11-23T10:16:24+00:00'
+timestamp: '2023-12-04T13:57:27+00:00'
 requested_by: dependabot[bot]
 provider: github
 branch: dependabot/github_actions/actions/setup-python-4.7.1
@@ -87,7 +87,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
-  detection_source: ".github/workflows/update-dev-beta-browser-images.yml"
+  detection_source: ".github/workflows/build-test.yml"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-10-03 08:56:41.000000000 Z
 - name: Istio
@@ -100,7 +100,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Microservices Tools
   image_url: https://img.stackshare.io/service/7028/AGpa5VZV.jpg
-  detection_source: ".github/workflows/update-dev-beta-browser-images.yml"
+  detection_source: ".github/workflows/build-test.yml"
   last_updated_by: Diego Molina
   last_updated_on: 2020-07-11 22:25:56.000000000 Z
 - name: Ubuntu
@@ -111,6 +111,6 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/3511/cof_orange_hex.jpg
-  detection_source: NodeBase/Dockerfile
+  detection_source: Base/Dockerfile
   last_updated_by: Diego Molina
   last_updated_on: 2023-03-03 10:52:22.000000000 Z
