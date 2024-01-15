@@ -40,7 +40,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [dabhi1123/selenium](https://github.com/dabhi1123/selenium)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|10<br/>Tools used|01/12/24 <br/>Report generated|
+|10<br/>Tools used|01/15/24 <br/>Report generated|
 |------|------|
 </div>
 
